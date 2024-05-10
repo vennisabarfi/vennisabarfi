@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Vennisa an engineer based here in Cincinnati. I work on personal projects here on GitHub and contribute to open source codebases. When I'm not here, I spend time with friends, play video games and religiously follow live football(soccer) games.
 
-<!--
-**vennisabarfi/vennisabarfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My favorite languages/tools: Python, JavaScript, Node.js, React
+  
+- 🌱 I’m currently building fullstack projects in general and improving them with cool AI functionalities.
 
-Here are some ideas to get you started:
+- 📫 My DMS are open to chat about fullstack, backend and AI projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 LinkedIn: [https://www.linkedin.com/in/vennisa-owusu-barfi-95155216b/]
+
+
+
+
