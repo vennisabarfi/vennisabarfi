@@ -9,7 +9,6 @@ I'm Vennisa an engineer based here in Cincinnati. I work on personal projects he
 
 - 📫 My DMS are open to chat about fullstack, backend and AI projects:
 
-🔗 LinkedIn: [https://www.linkedin.com/in/vennisa-owusu-barfi-95155216b/]
 
 
 
