@@ -8,7 +8,9 @@ I'm Vennisa an engineer based here in Cincinnati. I work on personal projects he
   
 - 🌱 I’m currently building projects in general and improving them with cool AI functionalities. 
 
-- 📫 My DMS are open to chat about fullstack, backend and AI projects:
+- 📫 My DMS are open to chat about fullstack, backend and AI projects.
+
+- Website : https://vennisabarfi.com
 
 
 
