@@ -3,6 +3,8 @@ I'm Vennisa an engineer based here in Cincinnati. I work on personal projects he
 
 Favorite Languages at the moment: Python + Golang
 
+Other fun things: Databases and SQL
+
 - Website : https://vennisabarfi.com
 
 
